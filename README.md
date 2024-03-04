@@ -1,4 +1,4 @@
-![Application screenshot](./img/Landingpage.png)
+![Application screenshot](https://github.com/laharsh/Restaurant-Website-Bootstrap-CSS/blob/master/img/Landing%20page.png)
 
 [Alberto Restaurant](https://restaurant-website-bootstrap-css.vercel.app/) is a simple, modern and responsive website for restaurants, made with Bootstrap.
 
