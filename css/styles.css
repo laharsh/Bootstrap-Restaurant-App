@@ -19,6 +19,13 @@
   background: #9575CD;
   color: floralwhite;
 }
+.container{
+  .media{
+    .img-thumbnail{
+      width:15%;
+    }
+  }
+}
 address {
   font-size: 80%;
   margin: 0px;
@@ -48,6 +55,7 @@ body {
   top: 0;
   left: 0;
   min-height: 300px;
+  width:30%;
 }
 #carouselButton {
   right: 0px;
